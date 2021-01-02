@@ -13,4 +13,5 @@
  <img alt="Solution a gif" src="demo/XORb.gif">
 </p>
 
-
+## Reference
+Javascript implementation by [CodingTrain](https://www.youtube.com/watch?v=188B6k_F9jU&list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh&index=19&ab_channel=TheCodingTrain)
